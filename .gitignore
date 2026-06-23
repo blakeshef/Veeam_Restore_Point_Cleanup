@@ -1,0 +1,2 @@
+# ignore workstation specific directories
+.DS_Store
